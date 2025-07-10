@@ -1,0 +1,18 @@
+body {
+  font-family: verdana;
+  text-align: center;
+}
+#myButton{
+  font-size: 3rem;
+  padding: 5px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(223, 244, 252);
+  transition: background-color, 0.15s;
+}
+#myButton:hover{
+  background-color: rgb(116, 215, 255);
+}
+.myLabels{
+  font-size: 3rem;
+}
